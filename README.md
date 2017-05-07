@@ -1,4 +1,6 @@
 # React Backend
+Forked from Dev Bootcamp. 
+Created by Instructors at Seattle Dev Bootcamp to teach React. 
 
 ## Installation
 ```
